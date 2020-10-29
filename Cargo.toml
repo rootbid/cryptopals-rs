@@ -1,0 +1,9 @@
+[package]
+name = "cryptopals_rs"
+version = "0.1.0"
+authors = ["rootbid"]
+edition = '2018'
+
+[dependencies]
+hex = "0.4.2"
+base64 = "0.13.0"
